@@ -4,7 +4,7 @@ import json
 data = {}
 data['students'] = []
 data['students'].append({
-    'name': 'Zachary Bicknell',
+    'name': 'Zac Bicknell',
     'GitHubID': 'zbicknell',
     'NetID': '819000583'
 })
